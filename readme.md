@@ -117,4 +117,13 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
+| Color Palette | used for website color palette | https://www.facebook.com/photo/?fbid=480912754998962&set=pcb.9034860096535173 |
+| Website knots PH | used for the main branding reference, images, inspiration, etc. | https://www.knots.ph/ |
+| Responsive Images | for images to be responsive | https://www.w3schools.com/html/html_images.asp |
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+

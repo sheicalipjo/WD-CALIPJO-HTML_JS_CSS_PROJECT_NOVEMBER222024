@@ -1,0 +1,20 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+  img[src="./assets/img/knotslogo.png"] {
+    border-radius: 50%;
+    max-width: 30vw;
+    align-items: center;
+    padding-left: 50px;}
+
+body {
+        padding: 5%;
+        font-size: 16px;
+        color: #F3E2D0;
+        background-size: 100vw;
+        background: linear-gradient(to bottom, #987184 70%, #F3E2D0 100%);
+        background-repeat: no-repeat;
+        
+
+    }
