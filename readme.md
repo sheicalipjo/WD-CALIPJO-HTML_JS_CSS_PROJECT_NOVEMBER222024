@@ -126,6 +126,59 @@ WD-ProjectName
 | Text Align | Text Align Center | https://developer.mozilla.org/en-US/docs/Web/HTML/Element/center |
 | Seamless Gradient | No weird bottom cutoffs | https://stackoverflow.com/questions/5059385/background-is-cutting-off-at-the-end-of-content |
 | Background Gradient | BG Gradient with Percentage | https://stackoverflow.com/questions/56357050/gradient-color-in-css-with-percentage |
+| Button JavaScript | Onclick |https://stackoverflow.com/questions/13071967/adding-an-onclick-function-to-go-to-url-in-javascript|
+| Navbar bootstrap| logo navbar bootstrap | https://getbootstrap.com/docs/5.0/components/navbar/|
+| No background cut offs| No background cutoffs | https://stackoverflow.com/questions/56694849/how-to-make-a-linear-gradient-css-background-to-fill-the-whole-background-withou|
+| Button| change button color in bootstrap| https://www.geeksforgeeks.org/how-to-change-button-color-in-bootstrap-5/|
+| Button | Button groups |https://getbootstrap.com/docs/4.0/components/button-group/|
+| Spacing | Bootstrap spacing| https://www.geeksforgeeks.org/how-to-fix-spacing-classes-in-bootstrap/|
+| Forms | Navbar forms | https://www.w3schools.com/bootstrap5/tryit.asp?filename=trybs_navbar_form&stacked=h|
+| Navbar | Navbar | https://www.w3schools.com/bootstrap5/bootstrap_navbar.php |
+| Link | Link colors | https://www.w3schools.com/css/css_link.asp |
+| Navbar | additional navbar properties | https://www.w3schools.com/howto/howto_css_topnav_centered.asp |
+| Background | additional measures so background doesn't break | https://stackoverflow.com/questions/20565736/my-background-image-get-cut-off-at-the-bottom |
+| Footer | additional footer properties | https://www.w3schools.com/howto/howto_css_fixed_footer.asp |
+| Full Wdith Div | used in background and footer i think | https://stackoverflow.com/questions/24049467/how-to-create-a-100-screen-width-div-inside-a-container-in-bootstrap |
+| Containers | bootstrap containers | https://getbootstrap.com/docs/5.0/layout/containers/ |
+| Containers 2 | bootstrap containers | https://www.w3schools.com/bootstrap5/bootstrap_containers.php|
+| Bootstrap Pages | used for footer | https://www.w3schools.com/bootstrap5/index.php |
+| Text decor| used for link underline | https://www.shecodes.io/athena/17496-how-to-remove-the-underline-of-a-link-in-css |
+| Footer | main footer stuff | https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer |
+| Onclick | Used for button click instead of text click only | https://stackoverflow.com/questions/13071967/adding-an-onclick-function-to-go-to-url-in-javascript |
+| Href | href attribs | https://www.w3schools.com/tags/att_a_href.asp |
+| Buttons | main btn stuff | https://www.w3schools.com/tags/tag_button.asp |
+| Buttons 2 | crediting just in case i did use it | https://www.geeksforgeeks.org/html-button-tag/ |
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
 | MIDTERMS PROJECT -- CUT OFF | Links below this link is from my old project, some are used, some not. Added just in case needed. | https://github.com/sheicalipjo/WD-CALIPJO-RESUME|
 | NAVBAR | nav bar glassy look | https://www.facebook.com/reel/3400909683388446 |
 | NAV IMG | navigator image or logo | https://stackoverflow.com/questions/37931506/image-in-css-nav-bar |
