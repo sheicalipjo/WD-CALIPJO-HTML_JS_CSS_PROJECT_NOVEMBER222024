@@ -148,16 +148,16 @@ WD-ProjectName
 | Href | href attribs | https://www.w3schools.com/tags/att_a_href.asp |
 | Buttons | main btn stuff | https://www.w3schools.com/tags/tag_button.asp |
 | Buttons 2 | crediting just in case i did use it | https://www.geeksforgeeks.org/html-button-tag/ |
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
+| Dotted Borer| line breaks - makes reading easy on footer | https://www.w3schools.com/howto/howto_css_dividers.asp |
+| Small Text | makes texts smaller | https://www.w3schools.com/tags/tag_small.asp|
+| Social Media Buttons | social media buttons | https://www.w3schools.com/howto/howto_css_social_media_buttons.asp |
+| Image | img src | https://www.w3schools.com/tags/tag_img.asp |
+| Modal | Bootstrap modal | https://www.w3schools.com/bootstrap/bootstrap_modal.asp |
+| Text Styles | text styles | https://www.freecodecamp.org/news/how-to-change-text-size-in-html/ |
+| Text Align | text alignment | https://www.w3schools.com/css/css_text_align.asp|
+| Text Overflow | to prevent text overflow | https://stackoverflow.com/questions/12777034/text-overflowing-the-sides-of-its-container-div |
+| Link Hover and more | text hover options | https://www.w3schools.com/cssref/sel_hover.php|
+| Disable Selector | disable text selector | https://www.w3schools.com/howto/howto_css_disable_text_selection.asp |
 |-|-|-|
 |-|-|-|
 |-|-|-|

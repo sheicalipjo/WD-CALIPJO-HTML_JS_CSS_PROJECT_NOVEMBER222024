@@ -1,4 +1,7 @@
 html {
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
     scroll-behavior: smooth;
     min-height:100%;
   }
@@ -8,6 +11,14 @@ html {
     max-width: 30vw;
     align-items: center;
     padding-left: 50px;}
+
+  img[src="./assets/img/knotsheaderasset.png"] {
+      border-radius: 50%;
+      max-width: 50vw;
+      max-height: 20vw;
+      align-items: center;
+      margin: auto;
+      object-position: center;}
 
 body {
         padding-bottom: 10%;
@@ -31,12 +42,12 @@ body {
       border: 1px solid #ffffff65;
       backdrop-filter: blur;
       list-style-type: none;
-      margin: 10px;
       padding: 15px;
       font-family: "Poppins", sans-serif;
       font-weight: bold;
       align-content: flex-end;
       align-items: center;
+      align-self: center;
       display: flex;
       justify-content: space-around;
       }
@@ -61,4 +72,24 @@ body {
 
     hr.dotted {
       border-top: 3px dotted #987184;
+    }
+
+    .about {border-radius: 12px;
+      background: #ffffff5d;
+      border: 1px solid #ffffff65;
+      backdrop-filter: blur;
+      padding: 10px;
+      list-style-type: none;
+      font-family: "Poppins", sans-serif;
+      align-self: center;
+      max-width: 80%;
+      margin: auto;
+    }
+
+    .insidertext {
+      padding: 20px;
+    }
+
+    .knotstitle {
+      color: #F3E2D0;
     }
