@@ -1,8 +1,8 @@
 html {-webkit-user-select: none; /* Safari */
   -ms-user-select: none; /* IE 10 and IE 11 */
   user-select: none; /* Standard syntax */
-    scroll-behavior: smooth;
-    min-height:100%;
+  scroll-behavior: smooth;
+  min-height: 100%;
   }
 
   img[src="./assets/img/knotslogo.png"] {
@@ -11,12 +11,13 @@ html {-webkit-user-select: none; /* Safari */
     align-items: center;
     padding-left: 50px;}
 
+
 body {
-        padding-bottom: 10%;
         font-size: 16px;
         color: #F3E2D0;
         background: linear-gradient(to bottom, #987184 70%, #F3E2D0 100%);
         background-repeat: no-repeat;
+        
 
     }
 
@@ -32,12 +33,12 @@ body {
       border: 1px solid #ffffff65;
       backdrop-filter: blur;
       list-style-type: none;
-      margin: 10px;
       padding: 15px;
       font-family: "Poppins", sans-serif;
       font-weight: bold;
       align-content: flex-end;
       align-items: center;
+      align-self: center;
       display: flex;
       justify-content: space-around;
       }
@@ -55,9 +56,10 @@ body {
       list-style-type: none;
       font-family: "Poppins", sans-serif;
       align-self: center;
-      position: static;
+      position: relative;
     width: 100%;
     left: 0;
+    min-height: 10vh;
     }
 
     hr.dotted {
@@ -109,7 +111,7 @@ body {
           height: 70%;
           text-overflow: clip;}
 
-    img[src="https://www.knots.ph/images/default-source/Christmas-Website-Creatives-2024/birthday-flowers-amp-gifts-mb.png?sfvrsn=2"] {      
+    img[src="https://www.knots.ph/images/default-source/collections/Box-of-Blooms/bx2301_1200.jpg?sfvrsn=2"] {      
             text-align: center;
             flex-wrap: wrap;
             align-content: center;
@@ -124,7 +126,7 @@ body {
             height: 70%;
             text-overflow: clip;}
 
-    img[src="https://www.knots.ph/images/default-source/Christmas-Website-Creatives-2024/birthday-flowers-amp-gifts-mb.png?sfvrsn=2"] {      
+    img[src="https://www.knots.ph/images/default-source/collections/Mason-Jar-Blooms/mj2107_1200be4cb0a8350a62b6a920ff0000e4902b.jpg?sfvrsn=2"] {      
               text-align: center;
               flex-wrap: wrap;
               align-content: center;
@@ -138,7 +140,23 @@ body {
               width: 100%;
               height: 70%;
               text-overflow: clip;}
+
+      img[src="https://www.knots.ph/images/default-source/Table-Arrangements-2023/ar2301_12005bbcb8a8350a62b6a920ff0000e4902b.jpg?sfvrsn=2"] {      
+                text-align: center;
+                flex-wrap: wrap;
+                align-content: center;
+                padding: 10px;
+                border-radius: 12px;
+                background: #ffffff5d;
+                border: 1px solid #ffffff65;
+                backdrop-filter: blur;
+                list-style-type: none;
+                position: relative;
+                width: 100%;
+                height: 70%;
+                text-overflow: clip;}
   
+
     #containerbody {
       text-align: center;
       flex-wrap: wrap;
@@ -155,7 +173,7 @@ body {
 
  }
 
- .topheader {border-radius: 12px;
+ .topheader {
   color: #F3E2D0;
   background: #ffffff5d;
   border: 1px solid #ffffff65;
@@ -163,4 +181,19 @@ body {
   padding: 10px;
   list-style-type: none;
   font-family: "Poppins", sans-serif;
-font-weight: bold;}
+font-weight: bold;
+max-width: 90%;
+margin: auto;}
+
+img[src="../about/assets/img/knotsheaderasset.png"] {
+  max-width: 20vw;
+  max-height: 20vw;
+  align-items: center;
+  margin: auto;
+  object-position: center;}
+  
+  
+  .knotstitle {
+    padding-top: 3%;
+    color: #F3E2D0;
+  }

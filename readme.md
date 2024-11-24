@@ -158,26 +158,30 @@ WD-ProjectName
 | Text Overflow | to prevent text overflow | https://stackoverflow.com/questions/12777034/text-overflowing-the-sides-of-its-container-div |
 | Link Hover and more | text hover options | https://www.w3schools.com/cssref/sel_hover.php|
 | Disable Selector | disable text selector | https://www.w3schools.com/howto/howto_css_disable_text_selection.asp |
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
+| Form | Simple Form coding | https://mdbootstrap.com/docs/standard/forms/overview/ |
+| Knots FB Page | more assets | https://www.facebook.com/knotsflowersandmore/|
+| Footer | footer icons | https://stackoverflow.com/questions/68050419/icons-in-footer |
+| Modal reference | did not use i think but crediting in case | https://www.w3schools.com/howto/howto_css_modals.asp |
+| Modal reference | did not use i think but crediting in case | https://getbootstrap.com/docs/4.0/components/modal/ |
+| Image references | did not use, only for inspiration | https://www.w3schools.com/howto/howto_css_button_on_image.asp |
+| Modal reference | did not use i think but crediting in case | https://www.w3schools.com/bootstrap/bootstrap_modal.asp |
+| Image references | in case i did use it | https://www.w3schools.com/css/css3_object-fit.asp |
+| Background | i was having issues with the background | https://stackoverflow.com/questions/5445491/height-equal-to-dynamic-width-css-fluid-layout |
+| Align | alignments | https://www.w3schools.com/cssref/css3_pr_align-content.php |
+| Modal reference | did not use i think but crediting in case | https://www.w3schools.com/bootstrap/bootstrap_ref_js_modal.asp |
+| Modal JS | i used it in one of the JS files | https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_modal_js&stacked=h |
+| Modal | used this modal and customized with css | https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_modal&stacked=h |
+| Backgrounds | have mercy on me the background kept cutting | https://www.w3schools.com/cssref/tryit.php?filename=trycss3_background-size2 |
+| Full width div | full width div | https://stackoverflow.com/questions/24049467/how-to-create-a-100-screen-width-div-inside-a-container-in-bootstrap |
+| Grid system lite lol | grid system medyo inexplain | https://stackoverflow.com/questions/24790171/align-2-divs-in-bootstrap-modal |
+| Grid system talaga | grid system explained | https://getbootstrap.com/docs/4.0/layout/grid/ |
+| ID selector | nakalimutan ko paano e AHAHAHHA | https://www.w3schools.com/cssref/sel_id.php |
+| HTML forms | forms | https://www.w3schools.com/html/html_forms.asp |
+| HTML styles | html styles | https://www.w3schools.com/html/html_styles.asp |
+| Layout | css layout | https://www.w3schools.com/css/css_align.asp|
+| HTML style | strong | https://www.w3schools.com/html/html_formatting.asp|
+| CSS over image | an attempt was made and not implemented | https://www.w3schools.com/howto/howto_css_image_text.asp |
+| Buttons | different modals | https://stackoverflow.com/questions/41338416/how-to-make-modals-with-different-content, https://jsfiddle.net/milanpanin/b2pyb6Lq/ |
 |-|-|-|
 | MIDTERMS PROJECT -- CUT OFF | Links below this link is from my old project, some are used, some not. Added just in case needed. | https://github.com/sheicalipjo/WD-CALIPJO-RESUME|
 | NAVBAR | nav bar glassy look | https://www.facebook.com/reel/3400909683388446 |
