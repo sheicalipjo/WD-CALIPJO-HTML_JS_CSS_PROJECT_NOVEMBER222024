@@ -53,9 +53,12 @@ body {
       padding: 10px;
       list-style-type: none;
       font-family: "Poppins", sans-serif;
-      font-weight: bold;
       align-self: center;
       position: relative;
     width: 100%;
     left: 0;
+    }
+
+    hr.dotted {
+      border-top: 3px dotted #987184;
     }
