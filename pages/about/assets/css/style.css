@@ -24,9 +24,6 @@ body {
         color: #F3E2D0;
         background: linear-gradient(to bottom, #987184 70%, #F3E2D0 100%);
         background-repeat: no-repeat;
-        text-align: center;
-        
-
     }
 
     nav {    
@@ -85,6 +82,9 @@ body {
       max-width: 80%;
       margin: auto;
       display: inline-block;
+position: relative;
+left: 100%;
+transform: translateX(-100%);
     }
 
     .insidertext {
