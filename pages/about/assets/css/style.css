@@ -83,6 +83,7 @@ body {
       align-self: center;
       max-width: 80%;
       margin: auto;
+      display: inline-block;
     }
 
     .insidertext {
