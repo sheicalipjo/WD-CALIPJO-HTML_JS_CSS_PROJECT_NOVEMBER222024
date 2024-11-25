@@ -81,10 +81,6 @@ body {
       align-self: center;
       max-width: 80%;
       margin: auto;
-      display: inline-block;
-position: relative;
-left: 100%;
-transform: translateX(-100%);
     }
 
     .insidertext {
