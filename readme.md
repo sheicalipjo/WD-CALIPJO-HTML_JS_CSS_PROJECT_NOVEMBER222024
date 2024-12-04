@@ -14,6 +14,7 @@
 <!-- TODO: Make a short description -->
 <div align="center">
   this is for my FINALS project for CCS0027 (lec and lab)!
+  <a href="https://wakatime.com/badge/user/18102578-cf36-48ae-b702-478e895c9c11/project/5c81db2e-f924-4b86-9dba-d373901f3996"><img src="https://wakatime.com/badge/user/18102578-cf36-48ae-b702-478e895c9c11/project/5c81db2e-f924-4b86-9dba-d373901f3996.svg" alt="wakatime"></a>
 </div>
 
 <br />
