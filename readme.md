@@ -58,20 +58,18 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+This is for my CCS0027 finals project. My class, TD21, was assigned to create their own projects in VS Code using HTML, CSS, with two options: JavaScript or TailWind CSS. The purpose of this project is both academic fulfillment purposes and hands-on experience for those who are interested in Web Design (such as myself). The website's components are HTML, CSS and JavaScript. I did not use Tailwind CSS. 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Smooth Scrolling
+- Minimal layout
+- Dummy Transactions (You cannot check out/add to cart)
+- Responsive Website
+- A redesign of the original knots.ph website
+- Different navigation bar on HOME page
 
 ### Technology
 <!-- TODO: List of Technology Used -->
